@@ -1,0 +1,293 @@
+/* Colors */
+:root {
+    --color-primary-darkest: #920D05;
+    --color-primary-dark: #C01F15;
+    --color-primary-medium: #EF544A;
+    --color-primary-light: #FFD3D1;
+    --color-secondary-darkest: #4B4B4B;
+    --color-secondary-dark: #707070;
+    --color-secondary-medium: #ACACAC;
+    --color-secondary-light: #ECECEC;
+    --color-accent-darkest: #00375B;
+    --color-accent-dark: #02568E;
+    --color-accent-medium: #64A8D5;
+    --color-accent-light: #CEE9FA;
+    --color-error: #F00000;
+    --color-warning: #FFD600;
+    --color-success: #00D509;
+}
+
+/* Typography */
+h1 {
+    font-family: "Asap";
+    font-size: 3rem; /* 48px */
+    font-style: normal;
+    font-weight: 700;
+    line-height: 4.5rem; /*72 px*/
+    letter-spacing: 0.125rem; /* 2px */
+    margin: 0;
+    padding: 0;
+    /* all caps */
+}
+
+h2 {
+    font-family: "Asap";
+    font-size: 2.5rem; /* 40px */
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3.75rem; /* 60px */
+    margin: 0;
+    padding: 0;
+    /* all caps */
+}
+
+h3 {
+    font-family: "Asap";
+    font-size: 2rem; /* 32px */
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3rem; /* 48px */
+    margin: 0;
+    padding: 0;
+    /* all caps */
+}
+
+h4 {
+    font-family: "Asap";
+    font-size: 1.75rem; /* 28px */
+    font-style: normal;
+    font-weight: 600;
+    line-height: 2.625rem; /* 42px */
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    font-family: "Asap";
+    font-size: 1.5rem; /* 24px */
+    font-style: normal;
+    font-weight: 600;
+    line-height: 2.25rem; /* 36px */
+    margin: 0;
+    padding: 0;
+}
+
+h6 {
+    font-family: "Asap";
+    font-size: 1.25rem; /* 20px */
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.875rem; /* 30px */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    align-items: center;
+}
+
+.subtitle {
+    font-family: "Source Sans 3";
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.5rem; /* 24px */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: "Source Sans 3";
+    font-size: 1rem; /* 16px */
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.75rem; /* 28px */
+    margin: 0;
+    padding: 0;
+}
+
+.callout {
+    font-family: "Source Sans 3";
+    font-size: 0.875rem; /* 14px */
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.313rem; /* 21px */
+}
+
+.section-title {
+    text-align: center;
+    padding-bottom: 6rem; /* 48px */
+    padding-top: 0;
+}
+
+.bullet {
+    font-family: "Source Sans 3";
+    font-size: 1rem; /* 16px */
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* Buttons */
+.button {
+    display: inline-flex;
+    padding: 0.5rem 1rem; /* 8px 16px */
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 1;
+}
+
+.button-primary {
+    border: 2px solid var(--color-primary-dark);
+    background: white;
+    color: var(--color-primary-dark);
+}
+
+.button-primary:hover {
+    background: var(--color-primary-dark);
+    color: white;
+}
+
+.button-primary p:hover {
+    text-decoration: none !important;
+}
+
+.button-primary:active {
+    border: 2px solid var(--color-primary-darkest);
+    background: var(--color-primary-darkest);
+    color: white;
+}
+
+.button-secondary {
+    border: none;
+    background: var(--color-secondary-light);
+    color: black;
+}
+
+.button-secondary:hover {
+    background: var(--color-secondary-dark);
+    color: white;
+}
+
+.button-secondary:active {
+    background: var(--color-secondary-darkest);
+    color: white;
+}
+
+.button-tertiary {
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.button-tertiary:hover {
+    background: var(--color-secondary-light);
+    color: black;
+}
+
+.button-tertiary:active {
+    background: black;
+    color: white;
+}
+
+.button-large {
+    background: var(--color-primary-dark);
+    color: white;
+}
+
+.button-large:hover {
+    background: var(--color-primary-darkest);
+    color: white;
+}
+
+.button-large:active {
+    background: #650600;
+    color: white;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.no-border-radius {
+    border-radius: 0px !important;
+}
+
+#left {
+    text-align: left;
+}
+
+#center {
+    text-align: center;
+    align-items: center;
+}
+
+.right {
+    text-align: right !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.dark-red {
+    color: var(--color-primary-dark);
+}
+
+.reduce-top-later {
+    padding-top: 6rem;
+}
+
+@media (max-width: 62rem) {
+    .reduce-top-later {
+        padding-top: 0;
+    }
+}
+
+@media (max-width: 48rem) {
+    h1 {
+        font-size: 2.5rem;
+        line-height: 3.5rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+        line-height: 3.25rem;
+    }
+
+    h3 {
+        font-size: 1.75rem;
+    }
+
+    h4 {
+        font-size: 1.35rem;
+    }
+
+    h5 {
+        font-size: 1.25rem;
+    }
+
+    h6 {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 32rem) {
+    h1 {
+        font-size: 2.25rem;
+        line-height: 3.25rem;
+    }
+
+    h2 {
+        font-size: 1.75rem;
+        line-height: 3rem;
+        font-weight: 650;
+    }
+
+    h3 {
+        font-size: 1.6rem;
+    }
+}

@@ -241,9 +241,46 @@ html {
     padding-top: 6rem;
 }
 
+.section {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    width: 100%;
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+@media (max-width: 86rem) {
+    .section {
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+}
+
+@media (max-width: 70rem) {
+    .section {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+}
+
+@media (max-width: 68rem) {
+    .section {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+}
+
 @media (max-width: 62rem) {
     .reduce-top-later {
         padding-top: 0;
+    }
+}
+
+@media (max-width: 60rem) {
+    .section {
+        padding-left: 3.5rem;
+        padding-right: 3.5rem;
     }
 }
 
@@ -272,6 +309,11 @@ html {
 
     h6 {
         font-size: 1rem;
+    }
+
+    .section {
+        padding-top: 3rem;
+        padding-bottom: 3.75rem;
     }
 }
 

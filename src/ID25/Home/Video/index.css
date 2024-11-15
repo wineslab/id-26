@@ -1,0 +1,25 @@
+.video-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+}
+
+.video {
+    width: 100%;
+    height: auto;
+}
+
+.bullets ul {
+    line-height: 2rem;
+}
+
+.bullets ul li {
+    text-align: left;
+}
+
+@media (max-width: 68rem) {
+    .video-container {
+        display: flex;
+        flex-direction: column;
+    }
+}

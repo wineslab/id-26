@@ -20,11 +20,11 @@
 /* Typography */
 h1 {
     font-family: "Asap";
-    font-size: 3rem; /* 48px */
+    font-size: 3rem !important; /* 48px */
     font-style: normal;
-    font-weight: 700;
-    line-height: 4.5rem; /*72 px*/
-    letter-spacing: 0.125rem; /* 2px */
+    font-weight: 700 !important;
+    line-height: 4.5rem !important; /*72 px*/
+    letter-spacing: 0.125rem !important; /* 2px */
     margin: 0;
     padding: 0;
     /* all caps */
@@ -32,10 +32,10 @@ h1 {
 
 h2 {
     font-family: "Asap";
-    font-size: 2.5rem; /* 40px */
+    font-size: 2.5rem !important; /* 40px */
     font-style: normal;
-    font-weight: 600;
-    line-height: 3.75rem; /* 60px */
+    font-weight: 600 !important;
+    line-height: 3.75rem !important; /* 60px */
     margin: 0;
     padding: 0;
     /* all caps */
@@ -54,20 +54,20 @@ h3 {
 
 h4 {
     font-family: "Asap";
-    font-size: 1.75rem; /* 28px */
+    font-size: 1.75rem !important; /* 28px */
     font-style: normal;
-    font-weight: 600;
-    line-height: 2.625rem; /* 42px */
+    font-weight: 600 !important;
+    line-height: 2.625rem !important; /* 42px */
     margin: 0;
     padding: 0;
 }
 
 h5 {
     font-family: "Asap";
-    font-size: 1.5rem; /* 24px */
+    font-size: 1.5rem !important; /* 24px */
     font-style: normal;
-    font-weight: 600;
-    line-height: 2.25rem; /* 36px */
+    font-weight: 600 !important;
+    line-height: 2.25rem !important; /* 36px */
     margin: 0;
     padding: 0;
 }
@@ -208,6 +208,23 @@ p {
     color: white;
 }
 
+.button-floating {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.25);
+    background: var(--color-primary-dark);
+    color: white;
+    border: 2px solid var(--color-primary-dark);
+}
+
+.button-floating:hover, .button-floating:active {
+    border: 2px solid var(--color-primary-dark);
+    background: white;
+    color: var(--color-primary-dark);
+}
+
+/* Other */
 img {
     border-radius: 10px;
 }

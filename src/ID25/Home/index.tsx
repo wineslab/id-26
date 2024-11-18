@@ -9,11 +9,11 @@ function Home() {
     return (
         <div>
             <img src="/images/id-logo.png" className="img-fluid id-logo" alt="id logo 2025" />
-            <h1 style={{paddingTop: "6rem"}}>TOWARD OPEN6G NETWORKS</h1>
-            <div id="Video">
+            <div id="EventDetails">
+                <h1 style={{paddingTop: "6rem"}}>TOWARD OPEN 6G NETWORKS</h1>
                 <Video />
             </div>
-            <div id="Intro">
+            <div id="About">
                 <Intro />
             </div>
             <div id="PreviousEvent">

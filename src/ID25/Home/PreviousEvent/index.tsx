@@ -11,7 +11,7 @@ function PreviousEvent() {
     ];
     return (
         <div>
-            <SectionHeader text="2023 ID 23 EVENT PHOTOS"></SectionHeader>
+            <SectionHeader text="ID 23 EVENT PHOTOS"></SectionHeader>
             <div className="section">
                 <Carousel images={images} interval={3000} />
             </div>

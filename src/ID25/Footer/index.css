@@ -2,7 +2,7 @@
     color: white;
     background-color: black;
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     align-items: flex-start;
     gap: 5rem;
     padding: 6rem;
@@ -24,6 +24,10 @@
 
 .footer-section p {
     text-align: left;
+}
+
+.footer-section p:hover {
+    text-decoration: underline;
 }
 
 .footer-section a {
@@ -59,6 +63,10 @@
     color: white;
 }
 
+.icon-container img {
+    color: white !important;
+}
+
 .email {
     color: white;
 }
@@ -67,18 +75,7 @@
     text-decoration: underline;
 }
 
-.acknowledgement {
-    text-align: left;
-    text-decoration: none;
-    background-color: black;
-    /* color: white; */
-    color: var(--color-secondary-medium);
-    padding-left: 6rem;
-    padding-right: 6rem;
-    padding-bottom: 6rem;
-}
-
-.acknowledgement:hover {
+.nu:hover {
     text-decoration: none !important;
 }
 
@@ -95,10 +92,6 @@
         gap: 5rem;
         padding: 5rem;
     }
-
-    .acknowledgement {
-        padding: 5rem;
-    }
 }
 
 @media (max-width: 73rem) {
@@ -113,10 +106,6 @@
         gap: 4rem;
         padding: 4rem;
     }
-
-    .acknowledgement {
-        padding: 4rem;
-    }
 }
 
 @media (max-width: 38rem) {
@@ -128,9 +117,5 @@
 
     .footer-section {
         gap: 0.5rem;
-    }
-
-    .acknowledgement {
-        padding: 2.5rem;
     }
 }

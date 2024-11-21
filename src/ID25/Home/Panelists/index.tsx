@@ -5,8 +5,8 @@ import "./index.css";
 function Panelists() {
     return (
         <div>
-            <SectionHeader text="ID 23 PANELISTS"></SectionHeader>
-            <h5 style={{paddingTop: "1rem"}}>(COMING SOON: MEET THE ID 25 PANELISTS!)</h5>
+            <SectionHeader text="INDUSTRY DAY 23 PANELISTS"></SectionHeader>
+            <h5 style={{paddingTop: "1rem"}}>(Coming Soon: Meet the ID 25 Panelists!)</h5>
             <div className="section">
                 <div className="panelists-container">
                     <div className="group-overlay">

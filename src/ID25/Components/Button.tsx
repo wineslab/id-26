@@ -15,6 +15,7 @@ interface Props {
         | "subtitle"
         | "p"
         | "callout"
+        | "h5-reduced-height"
     children: string;
 }
 

@@ -21,7 +21,7 @@ function Footer() {
                 </Link>
             </div>
             <div className="footer-section">
-                <h5>ID 25 EVENT</h5>
+                <h5>INDUSTRY DAY 25</h5>
                 <Link to={`/Home/#EventDetails`}>
                     <p className={pathname === `/#EventDetails` ? 'active' : ''}>
                         <p className="subtitle">Details</p>
@@ -34,10 +34,10 @@ function Footer() {
                 </Link>
             </div>
             <div className="footer-section">
-                <h5>ID 23 EVENT</h5>
-                <Link to={`/Home/#PreviousEvent`}>
-                    <p className={pathname === `/#PreviousEvent` ? 'active' : ''}>
-                        <p className="subtitle">Photos</p>
+                <h5>INDUSTRY DAY 23</h5>
+                <Link to={`/Home/#PhotoGallery`}>
+                    <p className={pathname === `/#PhotoGallery` ? 'active' : ''}>
+                        <p className="subtitle">Photo Gallery</p>
                     </p>
                 </Link>
                 <Link to={`/Home/#Panelists`}>

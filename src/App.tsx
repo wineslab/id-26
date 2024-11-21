@@ -11,14 +11,12 @@ function App() {
   return (
     <div className="App">
       <HashRouter>
-        <div>
-          <Home />
-          <div className="floating-button">
-            <Link to="https://docs.google.com/forms/d/e/1FAIpQLSeOMt41GcGey29kzJ1uhH3XhuvPAQzo5KmQ0IFxqbpH-zwcQQ/viewform"
-            target="_blank" rel="noopener noreferrer">
-              <Button buttonType="button-floating" textStyle="subtitle">REGISTER NOW</Button>
-            </Link>
-          </div>
+        <Home />
+        <div className="floating-button">
+          <Link to="https://docs.google.com/forms/d/e/1FAIpQLSeOMt41GcGey29kzJ1uhH3XhuvPAQzo5KmQ0IFxqbpH-zwcQQ/viewform"
+          target="_blank" rel="noopener noreferrer">
+            <Button buttonType="button-floating" textStyle="h5-reduced-height">Register Now</Button>
+          </Link>
         </div>
         <Footer />
       </HashRouter>

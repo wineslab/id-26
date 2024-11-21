@@ -1,6 +1,6 @@
 .video-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-direction: column;
     gap: 3rem;
 }
 
@@ -9,16 +9,32 @@
     height: auto;
 }
 
-.bullets ul {
-    line-height: 1.75rem;
-}
-
-.bullets ul li {
+.table td {
+    vertical-align: middle;
+    padding: 0.75rem;
     text-align: left;
+    align-items: flex-start;
+    width: 50%;
 }
 
-@media (max-width: 68rem) {
-    .video-container {
+.table td p, .table th h5 {
+    margin: 0;
+    display: flex;
+    height: 100%;
+}
+
+.header-row {
+    background-color: var(--color-secondary-light) !important;
+}
+
+.details {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+}
+
+@media (max-width: 70rem) {
+    .details {
         display: flex;
         flex-direction: column;
     }

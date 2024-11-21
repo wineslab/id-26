@@ -1,0 +1,32 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    max-width: 100%;
+}
+
+.bottom {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+}
+
+.bottom img {
+    width: 100%;
+    height: auto;
+}
+
+.mini-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    width: 100%;
+}
+
+@media (max-width: 62rem) {
+    .bottom {
+        display: flex;
+        flex-direction: column;
+    }
+}

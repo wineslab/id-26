@@ -1,23 +1,28 @@
 import React from "react";
 import Video from "./Video";
-import Intro from "./Intro";
-import PreviousEvent from "./PreviousEvent";
+import About from "./About";
+import PhotoGallery from "./PhotoGallery";
 import Panelists from "./Panelists";
 import "./index.css";
 
 function Home() {
     return (
         <div>
-            <img src="/images/id-logo.png" className="img-fluid id-logo" alt="id logo 2025" />
+            <div className="img-box">
+                <img src="/images/id-25-logo.png" className="id-logo" alt="id logo 2025" />
+            </div>
             <div id="EventDetails">
-                <h1 style={{paddingTop: "6rem"}}>TOWARD OPEN 6G NETWORKS</h1>
+                <div className="section less-padding">
+                    <h1>INDUSTRY DAY 25: TOWARD OPEN 6G NETWORKS</h1>
+                    <h5>An Annual Forum to Connect Industry, Government, and Academia.</h5>
+                </div>
                 <Video />
             </div>
             <div id="About">
-                <Intro />
+                <About />
             </div>
-            <div id="PreviousEvent">
-                <PreviousEvent />
+            <div id="PhotoGallery">
+                <PhotoGallery />
             </div>
             <div id="Panelists">
                 <Panelists />

@@ -10,7 +10,7 @@ function Panelists() {
             <div className="section">
                 <div className="panelists-container">
                     <div className="group-overlay">
-                        <img src="/images/panelist1.png" className="p-pic" alt="panelist 1"/>
+                        <img src="images/panelist1.png" className="p-pic" alt="panelist 1"/>
                         <div className="info">
                             <h4 style={{paddingBottom: "0.5rem"}}>MARK CASTLEMAN</h4>
                             <p>Managing Director</p>
@@ -18,7 +18,7 @@ function Panelists() {
                         </div>
                     </div>
                     <div className="group-overlay">
-                        <img src="/images/panelist3.png" className="p-pic" alt="panelist 3"/>
+                        <img src="images/panelist3.png" className="p-pic" alt="panelist 3"/>
                         <div className="info">
                             <h4 style={{paddingBottom: "0.5rem"}}>RUSS WILCOX</h4>
                             <p>Partner</p>
@@ -26,7 +26,7 @@ function Panelists() {
                         </div>
                     </div>
                     <div className="group-overlay">
-                        <img src="/images/panelist4.png" className="p-pic" alt="panelist 4"/>
+                        <img src="images/panelist4.png" className="p-pic" alt="panelist 4"/>
                         <div className="info">
                             <h4 style={{paddingBottom: "0.5rem"}}>STACY SWIDER</h4>
                             <p>Vice President of Investments</p>
@@ -34,7 +34,7 @@ function Panelists() {
                         </div>
                     </div>
                     <div className="group-overlay">
-                        <img src="/images/panelist2.png" className="p-pic" alt="panelist 2"/>
+                        <img src="images/panelist2.png" className="p-pic" alt="panelist 2"/>
                         <div className="info">
                             <h4 style={{paddingBottom: "0.5rem"}}>MYRON KASSARABA</h4>
                             <p>Director of Commercialization</p>

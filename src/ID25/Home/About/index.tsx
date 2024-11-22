@@ -13,7 +13,7 @@ function About() {
                     <p>This event fosters an inclusive environment for open discussions, inviting our research community and global participants to engage in meaningful exchanges about wireless research and its profound impact on the future. Featuring panel sessions, poster and demo presentations, and engaging conferences, attendees will have the opportunity to stay abreast of the latest updates and developments in wireless technology. Moreover, this event offers a pivotal platform for networking, enabling participants to forge connections with peers and establish valuable partnerships with industry professionals who share a common passion for technological innovation.</p>
                 </div>
                 <div className="bottom">
-                    <img src="/images/wiot-industry-day-2023-1.jpg" className="img-fluid" alt="id 23 event" style={{maxWidth: "100%" }} />
+                    <img src="images/wiot-industry-day-2023-1.jpg" className="img-fluid" alt="id 23 event" style={{maxWidth: "100%" }} />
                     <div className="mini-section">
                         <p>The Annual WIoT Industry Day brings together research faculty, government, and industry leaders to discuss the <b>future of wireless. Some of the topics covered on this event include:</b></p>
                         <ul>

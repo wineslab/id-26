@@ -50,23 +50,23 @@ function Footer() {
                 <h5>CONNECT WITH US</h5>
                 <ButtonMailto mailto="wiot@northeastern.edu">
                     <div className="icon-container">
-                        <img src="/images/icons/email.svg" alt="email"/>
+                        <img src="images/icons/email.svg" alt="email"/>
                         <p className="subtitle email">wiot@northeastern.edu</p>
                     </div>
                 </ButtonMailto>
 
                 <div style={{display: "flex", flexDirection: "row", justifyContent: "space-between", width: "100%", paddingTop: "1.5rem"}}>
                     <Link to="https://www.linkedin.com/company/institute-for-the-wireless-internet-of-things" target="_blank" rel="noopener noreferrer">
-                        <img src="/images/icons/linkedin.svg" alt="linkedin"></img>
+                        <img src="images/icons/linkedin.svg" alt="linkedin"></img>
                     </Link>
                     <Link to="https://twitter.com/wiot_neu" target="_blank" rel="noopener noreferrer">
-                        <img src="/images/icons/x.svg" alt="x"></img>
+                        <img src="images/icons/x.svg" alt="x"></img>
                     </Link>
                     <Link to="https://www.instagram.com/wiot_neu/" target="_blank" rel="noopener noreferrer">
-                        <img src="/images/icons/instagram.svg" alt="instagram"></img>
+                        <img src="images/icons/instagram.svg" alt="instagram"></img>
                     </Link>
                     <Link to="https://www.youtube.com/@wiot_neu" target="_blank" rel="noopener noreferrer">
-                        <img src="/images/icons/youtube.svg" alt="youtube"></img>
+                        <img src="images/icons/youtube.svg" alt="youtube"></img>
                     </Link>
                 </div>
             </div>

@@ -19,7 +19,6 @@ function Video() {
                         <p>Please see the tentative agenda below:</p>
                     </div>
                 <div className="details">
-                    <img src="images/event-venue.jpg" className="venue-img" alt="event venue" />
                     <Table bordered>
                         <thead>
                             <tr>
@@ -58,6 +57,7 @@ function Video() {
                             </tr>
                         </tbody>
                     </Table>
+                    <img src="images/event-venue.jpg" className="venue-img" alt="event venue" />
                 </div>
             </div>
         </div>

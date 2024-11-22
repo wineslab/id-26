@@ -9,7 +9,7 @@ function Home() {
     return (
         <div>
             <div className="img-box">
-                <img src="/images/id-25-logo.png" className="id-logo" alt="id logo 2025" />
+                <img src="images/id-25-logo.png" className="id-logo" alt="id logo 2025" />
             </div>
             <div id="EventDetails">
                 <div className="section less-padding">

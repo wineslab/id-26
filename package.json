@@ -1,6 +1,7 @@
 {
   "name": "id-25-website",
   "version": "0.1.0",
+  "homepage": "https://adalialee.github.io/id-25-website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -18,10 +19,11 @@
     "react-router-dom": "^6.28.0",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "^5.0.1",
-    "typescript": "^5.6.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,6 +48,8 @@
     ]
   },
   "devDependencies": {
-    "@types/react-router-hash-link": "^2.4.9"
+    "@types/react-router-hash-link": "^2.4.9",
+    "gh-pages": "^6.2.0",
+    "typescript": "^5.7.2"
   }
 }

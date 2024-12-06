@@ -17,13 +17,13 @@ function About() {
                     <div className="mini-section">
                         <p>The Annual WIoT Industry Day brings together research faculty, government, and industry leaders to discuss the <b>future of wireless. Some of the topics covered on this event include:</b></p>
                         <ul>
-                            <li><p>Advances in <b>Open NextG</b> wireless systems</p></li>
-                            <li><p><b>Artificial Intelligence</b> in wireless and IoT</p></li>
+                            <li><p>Advances in <b>Open NextG</b> Wireless Systems</p></li>
+                            <li><p><b>Artificial Intelligence</b> in Wireless and IoT</p></li>
                             <li><p><b>Testbeds for Future Wireless</b></p></li>
                             <li><p><b>Digital Twins</b></p></li>
-                            <li><p><b>Smart citires</b> and oceans</p></li>
-                            <li><p>Smart and connected medical <b>devices</b></p></li>
-                            <li><p>Connected <b>and robotic vehicles</b></p></li>
+                            <li><p><b>Smart Cities</b> and Oceans</p></li>
+                            <li><p>Smart and Connected Medical <b>Devices</b></p></li>
+                            <li><p>Connected <b> Robotic Vehicles</b></p></li>
                         </ul>
                     </div>
                 </div>

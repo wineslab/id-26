@@ -5,6 +5,17 @@
     max-width: 100%;
 }
 
+.mini-paragraphs {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr;
+    gap: 3rem;
+}
+
+.mini-paragraphs img {
+    width: 100%;
+    height: auto;
+}
+
 .bottom {
     display: grid;
     grid-template-columns: 1fr 1fr;

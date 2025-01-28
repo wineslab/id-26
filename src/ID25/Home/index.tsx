@@ -1,6 +1,7 @@
 import React from "react";
 import Video from "./Video";
 import About from "./About";
+import Agenda from "./Agenda";
 import PhotoGallery from "./PhotoGallery";
 import Panelists from "./Panelists";
 import "./index.css";
@@ -20,6 +21,9 @@ function Home() {
             </div>
             <div id="About">
                 <About />
+            </div>
+            <div id="Agenda">
+                <Agenda />
             </div>
             <div id="PhotoGallery">
                 <PhotoGallery />

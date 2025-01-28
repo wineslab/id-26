@@ -1,5 +1,4 @@
 import "./index.css";
-import React from 'react';
 
 interface Props {
     text: string;

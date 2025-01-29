@@ -76,6 +76,7 @@ function Agenda() {
                                         <li>Najme Ebrahimi, “Next Generation of Efficient Communication and Computing Radios, From System to 3D Heterogenous Integration”</li>
                                         <li>Dimitrios Kousonikolas, “Evaluating 5G Performance in the Wild”</li>
                                         <li>Milica Stojanovic, “Underwater Wireless Communications”</li>
+                                        <li>Josep Jornet, “Terahertz Communications: From the Near-field to Space Networks”</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -90,6 +91,7 @@ function Agenda() {
                                         <li>J. Gordon Beattie, Viavi Solutions</li>
                                         <li>Rajesh Sood, Tech Mahindra</li>
                                         <li>Doug Castor, InterDigital</li>
+                                        <li>Josep Jornet, Northeastern University</li>
                                     </ul>
                                 </td>
                             </tr>

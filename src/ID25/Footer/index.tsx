@@ -32,17 +32,22 @@ function Footer() {
                         <p className="subtitle">About</p>
                     </p>
                 </Link>
+                <Link to={`/Home/#Agenda`}>
+                    <p className={pathname === `/#Agenda` ? 'active' : ''}>
+                        <p className="subtitle">Agenda</p>
+                    </p>
+                </Link>
+                <Link to={`/Home/#Panelists`}>
+                    <p className={pathname === `/#Panelists` ? 'active' : ''}>
+                        <p className="subtitle">Panelists</p>
+                    </p>
+                </Link>
             </div>
             <div className="footer-section">
                 <h5>INDUSTRY DAY 23</h5>
                 <Link to={`/Home/#PhotoGallery`}>
                     <p className={pathname === `/#PhotoGallery` ? 'active' : ''}>
                         <p className="subtitle">Photo Gallery</p>
-                    </p>
-                </Link>
-                <Link to={`/Home/#Panelists`}>
-                    <p className={pathname === `/#Panelists` ? 'active' : ''}>
-                        <p className="subtitle">Panelists</p>
                     </p>
                 </Link>
             </div>

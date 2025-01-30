@@ -25,11 +25,11 @@ function Home() {
             <div id="Agenda">
                 <Agenda />
             </div>
-            <div id="PhotoGallery">
-                <PhotoGallery />
-            </div>
             <div id="Panelists">
                 <Panelists />
+            </div>
+            <div id="PhotoGallery">
+                <PhotoGallery />
             </div>
         </div>
     );

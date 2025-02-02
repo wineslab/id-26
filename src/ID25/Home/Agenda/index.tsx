@@ -55,12 +55,13 @@ function Agenda() {
                                 <td><p>10:00-11:00 am</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
-                                        <li>Stratis Ioannidis, “Machine Learning at the Edge”</li>
-                                        <li>Florian Kaltenberger, “5G Positioning with OpenAirInterface”</li>
-                                        <li>Michele Polese, “Network Automation for AI and RAN”</li>
-                                        <li>Francesco Restuccia, “Unleashing 6G with Wireless for AI & AI for Wireless”</li>
-                                        <li>Pedram Johari, “Wireless Digital Twins for Wireless Networks”</li>
-                                        <li>Ken Duffy, “Next Generation Error Correction”</li>
+                                        <li>Stratis Ioannidis, "Machine Learning at the Edge"</li>
+                                        <li>Florian Kaltenberger, "5G Positioning with OpenAirInterface"</li>
+                                        <li>Michele Polese, "Network Automation for AI and RAN"</li>
+                                        <li>Francesco Restuccia, "Unleashing 6G with Wireless for AI & AI for Wireless"</li>
+                                        <li>Pedram Johari, "Wireless Digital Twins for Wireless Networks"</li>
+                                        <li>Ken Duffy, "Next Generation Error Correction"</li>
+                                        <li>Stefano Basagni, "Pathways to Education, Research and Workforce Development"</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -72,11 +73,14 @@ function Agenda() {
                                 <td><p>11:10 am-12:30 pm</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
-                                        <li>Hessam Mahdavifar, “New Frontiers in Channel Coding: Theory and Practice”</li>
-                                        <li>Najme Ebrahimi, “Next Generation of Efficient Communication and Computing Radios, From System to 3D Heterogenous Integration”</li>
-                                        <li>Dimitrios Kousonikolas, “Evaluating 5G Performance in the Wild”</li>
-                                        <li>Milica Stojanovic, “Underwater Wireless Communications”</li>
-                                        <li>Josep Jornet, “Terahertz Communications: From the Near-field to Space Networks”</li>
+                                        <li>Paolo Testolina, "Sharing and Coexistence across Spectrum and Space"</li>
+                                        <li>Hessam Mahdavifar, "New Frontiers in Channel Coding: Theory and Practice"</li>
+                                        <li>Najme Ebrahimi, "Next Generation of Efficient Communication and Computing Radios, From System to 3D Heterogenous Integration"</li>
+                                        <li>Dimitrios Koutsonikolas, "Evaluating 5G Performance in the Wild"</li>
+                                        <li>Milica Stojanovic, "Underwater Wireless Communications"</li>
+                                        <li>Josep M. Jornet, "Terahertz Communications: From the Near-field to Space Networks"</li>
+                                        <li>Edmund Yeh, "Intelligence at the Edge: Computation Placement and Data Movement"</li>
+                                        <li>Manu Gosain, "6G Perspective and Research Priorities to Align with the National Agenda"</li>
                                     </ul>
                                 </td>
                             </tr>

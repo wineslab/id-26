@@ -127,7 +127,7 @@ function Agenda() {
                                 <td><p>4:00-5:00 pm</p></td>
                                 <td><p>Panel 2: Entrepreneurship: Navigating the path from academia to new venture spinout</p>
                                     <ul>
-                                        <li>Bubba Haygood: Tenon Ventures</li>
+                                        <li>Bubba Hagood: Tenon Ventures</li>
                                         <li>Joel Dawson: Talking Heads wireless</li>
                                         <li>Stacy Swider: Mass Ventures</li>
                                         <li>Kimo Johnson: Gelsight</li>

@@ -33,9 +33,9 @@ function Panelists() {
                         </div>
                     </div>
                     <div className="group-overlay">
-                        <img src="images/panelists/BubbaHaygood.png" className="p-pic" alt="panelist 4"/>
+                        <img src="images/panelists/BubbaHagood.png" className="p-pic" alt="panelist 4"/>
                         <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Bubba Haygood</h4>
+                            <h4 style={{paddingBottom: "0.5rem"}}>Bubba Hagood</h4>
                             <p>Managing General Partner</p>
                             <p>Tenon Ventures</p>
                         </div>

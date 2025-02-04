@@ -73,13 +73,14 @@ function Agenda() {
                                 <td><p>11:10 am-12:30 pm</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
-                                        <li>Paolo Testolina, "Sharing and Coexistence across Spectrum and Space"</li>
                                         <li>Hessam Mahdavifar, "New Frontiers in Channel Coding: Theory and Practice"</li>
+                                        <li>Paolo Testolina, "Sharing and Coexistence across Spectrum and Space"</li>
                                         <li>Najme Ebrahimi, "Next Generation of Efficient Communication and Computing Radios, From System to 3D Heterogenous Integration"</li>
                                         <li>Dimitrios Koutsonikolas, "Evaluating 5G Performance in the Wild"</li>
                                         <li>Milica Stojanovic, "Underwater Wireless Communications"</li>
                                         <li>Josep M. Jornet, "Terahertz Communications: From the Near-field to Space Networks"</li>
                                         <li>Edmund Yeh, "Intelligence at the Edge: Computation Placement and Data Movement"</li>
+                                        <li>Yanzhi Wang, "Unified Acceleration Framework for Generative AI Models on the Edge"</li>
                                         <li>Manu Gosain, "6G Perspective and Research Priorities to Align with the National Agenda"</li>
                                     </ul>
                                 </td>

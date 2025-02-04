@@ -96,7 +96,7 @@ function Agenda() {
                                         <li>J. Gordon Beattie, Viavi Solutions</li>
                                         <li>Rajesh Sood, Tech Mahindra</li>
                                         <li>Doug Castor, InterDigital</li>
-                                        <li>Josep Jornet, Northeastern University</li>
+                                        <li>Josep M. Jornet, Northeastern University</li>
                                     </ul>
                                 </td>
                             </tr>

@@ -4,6 +4,7 @@ import About from "./About";
 import Agenda from "./Agenda";
 import PhotoGallery from "./PhotoGallery";
 import Panelists from "./Panelists";
+import Posters from "./Posters";
 import "./index.css";
 
 function Home() {
@@ -27,6 +28,9 @@ function Home() {
             </div>
             <div id="Panelists">
                 <Panelists />
+            </div>
+            <div id="Posters">
+                <Posters />
             </div>
             <div id="PhotoGallery">
                 <PhotoGallery />

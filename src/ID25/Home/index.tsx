@@ -15,7 +15,7 @@ function Home() {
             </div>
             <div id="EventDetails">
                 <div className="section less-padding">
-                    <h1>INDUSTRY DAY 26: INDUSTRY DAY 26: BUILDING AN OPEN AI-RAN</h1>
+                    <h1>INDUSTRY DAY 26: BUILDING AN OPEN AI-RAN</h1>
                     <h5>An Annual Forum to Connect Industry, Government, and Academia.</h5>
                 </div>
                 <Video />

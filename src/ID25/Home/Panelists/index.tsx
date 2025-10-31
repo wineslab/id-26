@@ -5,7 +5,7 @@ import "./index.css";
 function Panelists() {
     return (
         <div>
-            <SectionHeader text="INDUSTRY DAY 25 PANELISTS"></SectionHeader>
+            <SectionHeader text="INDUSTRY DAY 26 PANELISTS"></SectionHeader>
             <div className="section">
                 <div className="panelists-container">
                     <div className="group-overlay">

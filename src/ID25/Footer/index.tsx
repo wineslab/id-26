@@ -21,7 +21,7 @@ function Footer() {
                 </Link>
             </div>
             <div className="footer-section">
-                <h5>INDUSTRY DAY 25</h5>
+                <h5>INDUSTRY DAY 26</h5>
                 <Link to={`/Home/#EventDetails`}>
                     <p className={pathname === `/#EventDetails` ? 'active' : ''}>
                         <p className="subtitle">Details</p>

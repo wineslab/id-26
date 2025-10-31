@@ -6,7 +6,7 @@ import "./index.css";
 function Posters() {
     return (
         <div>
-            <SectionHeader text="INDUSTRY DAY 25 POSTERS AND PRESENTATIONS"></SectionHeader>
+            <SectionHeader text="INDUSTRY DAY 26 POSTERS AND PRESENTATIONS"></SectionHeader>
             <div className="section agenda">
                 <div className="details">
                     <Table bordered>

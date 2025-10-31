@@ -6,8 +6,11 @@ import "./index.css";
 function Agenda() {
     return (
         <div>
-            <SectionHeader text="AGENDA"></SectionHeader>
-            TBD
+            <SectionHeader text="PREVIOUS EVENTS"></SectionHeader>
+            <ul>
+              <li><a href="https://wiot.northeastern.edu/events/industry-day/" target="_blank">Industry Day 2023</a></li>
+              <li><a href="https://wineslab.github.io/id-25/" target="_blank">Industry Day 2025</a></li>
+            </ul>
         </div>
     );
 }

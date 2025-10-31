@@ -5,7 +5,7 @@ import "./index.css";
 function PhotoGallery() {
     return (
         <div>
-            <SectionHeader text="INDUSTRY DAY 23 PHOTO GALLERY"></SectionHeader>
+            <SectionHeader text="PREVIOUS INDUSTRY DAYS PHOTO GALLERY"></SectionHeader>
             <div className="section">
                 <div className="gallery">
                     <img src="images/wiot-industry-day-2023-6.jpg" alt="id 23 event" />

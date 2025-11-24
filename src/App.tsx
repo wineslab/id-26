@@ -12,12 +12,12 @@ function App() {
     <div className="App">
       <HashRouter>
         <Home />
-        {/*<div className="floating-button">
-          <Link to="https://docs.google.com/forms/d/e/1FAIpQLSeOMt41GcGey29kzJ1uhH3XhuvPAQzo5KmQ0IFxqbpH-zwcQQ/viewform"
+        <div className="floating-button">
+          <Link to="https://docs.google.com/forms/d/e/1FAIpQLSd0OlL9ioqLxzwa6XW8mOXy-rNHWxzg4iJGjSsdq1YKwLnn-Q/viewform"
           target="_blank" rel="noopener noreferrer">
             <Button buttonType="button-floating" textStyle="h5-reduced-height">Register Now</Button>
           </Link>
-        </div>*/}
+        </div>
         <Footer />
       </HashRouter>
     </div>

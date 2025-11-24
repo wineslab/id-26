@@ -8,7 +8,8 @@ function Posters() {
         <div>
             <SectionHeader text="INDUSTRY DAY 26 POSTERS AND PRESENTATIONS"></SectionHeader>
             <div className="section agenda">
-                <div className="details">
+                TBD
+                {/*<div className="details">
                     <Table bordered>
                         <colgroup>
                             <col className="time-column" />
@@ -159,7 +160,7 @@ function Posters() {
                             </tr>
                         </tbody>
                     </Table>
-                </div>
+                </div>*/}
             </div>
         </div>
     );

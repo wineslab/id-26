@@ -7,7 +7,8 @@ function Panelists() {
         <div>
             <SectionHeader text="INDUSTRY DAY 26 PANELISTS"></SectionHeader>
             <div className="section">
-                <div className="panelists-container">
+                TBD
+                {/*<div className="panelists-container">
                     <div className="group-overlay">
                         <img src="images/panelists/GordonBeattie.png" className="p-pic" alt="panelist 1"/>
                         <div className="info">
@@ -72,7 +73,7 @@ function Panelists() {
                             <p>Mass Ventures</p>
                         </div>
                     </div>
-                </div>
+                </div>*/}
             </div>
         </div>
     );

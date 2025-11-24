@@ -44,7 +44,9 @@ function Footer() {
                 </Link>
             </div>
             <div className="footer-section">
-                <h5>INDUSTRY DAY 23</h5>
+                <h5>PREVIOUS EVENTS</h5>
+                <p><b><a href="https://wiot.northeastern.edu/events/industry-day/" target="_blank">Industry Day 2023</a></b></p>
+                <p><b><a href="https://wineslab.github.io/id-25/" target="_blank">Industry Day 2025</a></b></p>
                 <Link to={`/Home/#PhotoGallery`}>
                     <p className={pathname === `/#PhotoGallery` ? 'active' : ''}>
                         <p className="subtitle">Photo Gallery</p>

@@ -16,38 +16,58 @@ function Agenda() {
                         </colgroup>
                         <thead>
                             <tr>
-                                <th colSpan={2} className="header-day-row">Monday, February 2, 2026</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td><p></p></td>
-                                <td><p>Welcome Reception & Registration</p></td>
-                            </tr>
-                        </tbody>
-                        {/**/}
-                        <thead>
-                            <tr>
                                 <th colSpan={2} className="header-day-row">Tuesday, February 3, 2026</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td><p></p></td>
-                                <td><p>Institute Research Presentations</p></td>
+                                <td><p>8:00-9:00 am</p></td>
+                                <td><p>Breakfast & Registration</p></td>
                             </tr>
 
                             <tr>
-                                <td><p></p></td>
-                                <td><p>Panel: Industry/Research Collaboration</p></td>
+                                <td>9:00-9:30 am<p></p></td>
+                                <td><p>Opening Remarks</p></td>
                             </tr>
                             <tr>
-                                <td><p></p></td>
-                                <td><p>Industry Engagement Models at WIoT</p></td>
+                                <td><p>9:30-10:00 am</p></td>
+                                <td><p>Keynote on AI-RAN with Kuntal Chowdhury - NVIDIA</p></td>
                             </tr>
                             <tr>
-                                <td><p></p></td>
-                                <td><p>Panel: Research and Commercialization in the era of AI-RAN</p></td>
+                                <td><p>10:00-11:00 am</p></td>
+                                <td><p>Research Presentations from Institute faculty members (part 1)</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>11:00-11:10 am</p></td>
+                                <td><p>Coffee Break</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>11:10 am-12:30 pm</p></td>
+                                <td><p>Research Presentations from Institute faculty members (part 2)</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>12:30-2:00 pm</p></td>
+                                <td><p>Networking Lunch</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2:00-3:00 pm</p></td>
+                                <td><p>Fireside Chat: “Beyond the Invention: What Turns Research into a Business” with Greg Waters - MatrixSpace, Northeastern University Board of Trustees</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>3:00-3:50 pm</p></td>
+                                <td><p>INSI Commercialization and Spin-Offs</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>3:50-4:00 pm</p></td>
+                                <td><p>Coffee Break</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>4:00-5:00 pm</p></td>
+                                <td><p>Panel: AI-RAN</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>7:00-9:00 pm</p></td>
+                                <td><p>Dinner Reception</p></td>
                             </tr>
                         </tbody>
                             {/**/}
@@ -58,16 +78,36 @@ function Agenda() {
                         </thead>
                         <tbody>
                             <tr>
-                                <td><p></p></td>
-                                <td><p>Research Posters & Demo Presentations</p></td>
+                                <td><p>8:00-9:00 am</p></td>
+                                <td><p>Breakfast & Registration</p></td>
                             </tr>
                             <tr>
-                                <td><p></p></td>
-                                <td><p>Research Posters and Demo Presentations</p></td>
+                                <td><p>9:00-11:00 am</p></td>
+                                <td><p>Research Poster and Demo Presentations</p></td>
                             </tr>
                             <tr>
-                                <td><p></p></td>
-                                <td><p>WIoT Facilities & Space Tour</p></td>
+                                <td><p>11:00-11:15 am</p></td>
+                                <td><p>Coffee Break and Lunch (to-go boxes)</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>11:15 am-12:30 pm</p></td>
+                                <td><p>Boston Campus WIoT Facilities/Space Tours (EXP)</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>1:00-2:00 pm</p></td>
+                                <td><p>Travel to Burlington (bus departing from East Village at 1:00 pm)</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2:00-4:00 pm</p></td>
+                                <td><p>WIoT Facilities/Space Tours in Burlington</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>4:00-5:00 pm</p></td>
+                                <td><p>Ad Hoc meetings for industry partners and researchers at the WIoT</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>5:00 pm</p></td>
+                                <td><p>Travel to Boston (bus departing from Building V at 5:00 pm)</p></td>
                             </tr>
                         </tbody>
                     </Table>

@@ -2,9 +2,9 @@ import React from 'react';
 import './App.css';
 import './styles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './ID25/Home';
-import Button from './ID25/Components/Button';
-import Footer from './ID25/Footer';
+import Home from './ID26/Home';
+import Button from './ID26/Components/Button';
+import Footer from './ID26/Footer';
 import { HashRouter, Link } from 'react-router-dom';
 
 function App() {

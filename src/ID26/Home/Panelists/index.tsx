@@ -53,7 +53,7 @@ function Panelists() {
                         <img src="images/panelists/JosepJornet.png" className="p-pic" alt="panelist 6"/>
                         <div className="info">
                             <h4 style={{paddingBottom: "0.5rem"}}>Josep M. Jornet</h4>
-                            <p>Professor & Associate Director of WIoT</p>
+                            <p>Professor & Associate Director of INSI</p>
                             <p>Northeastern University</p>
                         </div>
                     </div>

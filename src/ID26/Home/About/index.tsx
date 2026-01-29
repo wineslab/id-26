@@ -18,7 +18,7 @@ function About() {
                 <div className="bottom">
                     <img src="images/wiot-industry-day-2023-1.jpg" className="img-fluid" alt="id 23 event" style={{maxWidth: "100%" }} />
                     <div className="mini-section">
-                        <p>The Annual WIoT Industry Day brings together research faculty, government, and industry leaders to discuss the <b>future of wireless. Some of the topics covered on this event include:</b></p>
+                        <p>The Annual INSI Industry Day brings together research faculty, government, and industry leaders to discuss the <b>future of wireless. Some of the topics covered on this event include:</b></p>
                         <ul>
                             <li><p>Advances in <b>Open NextG</b> Wireless Systems</p></li>
                             <li><p><b>Artificial Intelligence</b> in Wireless and IoT</p></li>

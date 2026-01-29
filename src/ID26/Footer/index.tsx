@@ -9,7 +9,7 @@ function Footer() {
     return (
         <div className="footer">
             <div className="footer-section">
-                <h4>Institute for the Wireless Internet of Things</h4>
+                <h4>Institute for Intelligent Networked Systems</h4>
                 <p className="subtitle nu">Northeastern University</p>
                 <Link to="https://www.google.com/maps/place/805+Columbus+Ave,+Boston,+MA+02120/@42.3377049,-71.0870109,16z/data=!3m1!4b1!4m6!3m5!1s0x89e37a22a3a9ffa3:0x4fc7d96616e5f289!8m2!3d42.3377049!4d-71.0870109!16s%2Fg%2F11cnddhs8b?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D"
                 target="_blank" rel="noopener noreferrer" className="email">

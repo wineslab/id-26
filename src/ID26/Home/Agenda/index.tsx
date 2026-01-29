@@ -104,7 +104,7 @@ function Agenda() {
                             </tr>
                             <tr>
                                 <td><p>11:15 am-12:30 pm</p></td>
-                                <td><p>Boston Campus WIoT Facilities/Space Tours (EXP)</p></td>
+                                <td><p>Boston Campus INSI Facilities/Space Tours (EXP)</p></td>
                             </tr>
                             <tr>
                                 <td><p>1:00-2:00 pm</p></td>
@@ -112,11 +112,11 @@ function Agenda() {
                             </tr>
                             <tr>
                                 <td><p>2:00-4:00 pm</p></td>
-                                <td><p>WIoT Facilities/Space Tours in Burlington</p></td>
+                                <td><p>INSI Facilities/Space Tours in Burlington</p></td>
                             </tr>
                             <tr>
                                 <td><p>4:00-5:00 pm</p></td>
-                                <td><p>Ad Hoc meetings for industry partners and researchers at the WIoT</p></td>
+                                <td><p>Ad Hoc meetings for industry partners and researchers at the INSI</p></td>
                             </tr>
                             <tr>
                                 <td><p>5:00 pm</p></td>

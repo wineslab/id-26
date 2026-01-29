@@ -249,6 +249,10 @@ html {
     padding-right: 12rem;
 }
 
+.section.agenda {
+    padding-top: 0rem;
+}
+
 .paragraphs {
     display: flex;
     flex-direction: column;

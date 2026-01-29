@@ -7,6 +7,7 @@ function Agenda() {
     return (
         <div>
             <SectionHeader text="AGENDA"></SectionHeader>
+            <div><p><b>Location:</b> East Village - 291 St. Botolph Street</p></div>
             <div className="section agenda">
                 <div className="details">
                     <Table bordered>
@@ -14,6 +15,18 @@ function Agenda() {
                             <col className="time-column" />
                             <col className="item-column" />
                         </colgroup>
+                        <thead>
+                            <tr>
+                                <th colSpan={2} className="header-day-row">Monday, February 2, 2026</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><p>6:00-8:00 pm</p></td>
+                                <td><p>Cocktail Reception</p></td>
+                            </tr>
+                        </tbody>
+                        {/**/}
                         <thead>
                             <tr>
                                 <th colSpan={2} className="header-day-row">Tuesday, February 3, 2026</th>

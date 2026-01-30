@@ -166,11 +166,17 @@ function Agenda() {
                             </tr>
                             <tr>
                                 <td><p>1:00-2:00 pm</p></td>
-                                <td><p>Travel to Burlington (bus departing from East Village at 1:00 pm)</p></td>
+                                <td><p>Travel to Burlington (bus departing from East Village at 1:00 pm)<br/>141 S Bedford St, Building V, Burlington, MA 01803</p></td>
                             </tr>
                             <tr>
                                 <td><p>2:00-4:00 pm</p></td>
-                                <td><p>INSI Facilities/Space Tours in Burlington</p></td>
+                                <td><p>INSI Facilities/Space Tours in Burlington</p>
+                                    <ul>
+                                        <li>Colosseum</li>
+                                        <li>Open6G and OTIC (R&D, Testing and System Integration)</li>
+                                        <li>Live Drone Communications Demo</li>
+                                    </ul>
+                                </td>
                             </tr>
                             <tr>
                                 <td><p>4:00-5:00 pm</p></td>

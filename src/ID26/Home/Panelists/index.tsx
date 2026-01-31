@@ -7,73 +7,40 @@ function Panelists() {
         <div>
             <SectionHeader text="INDUSTRY DAY 26 PANELISTS"></SectionHeader>
             <div className="section">
-                TBD
-                {/*<div className="panelists-container">
+                <div className="panelists-container">
                     <div className="group-overlay">
-                        <img src="images/panelists/GordonBeattie.png" className="p-pic" alt="panelist 1"/>
+                        <img src="images/panelists/chris_christou.png" className="p-pic" alt="panelist 1"/>
                         <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>J. Gordon Beattie</h4>
-                            <p>Senior Principal Research Scientist/Engineer</p>
-                            <p>VIAVI Solutions</p>
+                            <h4 style={{paddingBottom: "0.5rem"}}>Chris Christou</h4>
+                            <p>Senior Vice President</p>
+                            <p>Booz Allen Hamilton</p>
                         </div>
                     </div>
                     <div className="group-overlay">
-                        <img src="images/panelists/DougCastor.png" className="p-pic" alt="panelist 2"/>
+                        <img src="images/panelists/ahan_kak.png" className="p-pic" alt="panelist 2"/>
                         <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Douglas Castor</h4>
-                            <p>Head of Wireless Research</p>
-                            <p>InterDigital</p>
+                            <h4 style={{paddingBottom: "0.5rem"}}>Ahan Kak</h4>
+                            <p>Research Scientist</p>
+                            <p>Nokia</p>
                         </div>
                     </div>
                     <div className="group-overlay">
-                        <img src="images/panelists/JoelDawson.png" className="p-pic" alt="panelist 3"/>
+                        <img src="images/panelists/ed_knapp.png" className="p-pic" alt="panelist 3"/>
                         <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Joel Dawson</h4>
-                            <p>Founder & CEO</p>
-                            <p>Talking Heads Wireless</p>
+                            <h4 style={{paddingBottom: "0.5rem"}}>Ed Knapp</h4>
+                            <p>Consultant</p>
+                            <p>Liberty Technology Partners / American Tower</p>
                         </div>
                     </div>
                     <div className="group-overlay">
-                        <img src="images/panelists/BubbaHagood.png" className="p-pic" alt="panelist 4"/>
+                        <img src="images/panelists/mauro_filho.png" className="p-pic" alt="panelist 4"/>
                         <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Bubba Hagood</h4>
-                            <p>Managing General Partner</p>
-                            <p>Tenon Ventures</p>
+                            <h4 style={{paddingBottom: "0.5rem"}}>Mauro Fihlo</h4>
+                            <p>SVP of AI-RAN</p>
+                            <p>SoftBank</p>
                         </div>
                     </div>
-                    <div className="group-overlay">
-                        <img src="images/panelists/KimoJohnson.png" className="p-pic" alt="panelist 5"/>
-                        <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Kimo Johnson</h4>
-                            <p>Co-Founder & Chief Science Officer</p>
-                            <p>GelSight</p>
-                        </div>
-                    </div>
-                    <div className="group-overlay">
-                        <img src="images/panelists/JosepJornet.png" className="p-pic" alt="panelist 6"/>
-                        <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Josep M. Jornet</h4>
-                            <p>Professor & Associate Director of INSI</p>
-                            <p>Northeastern University</p>
-                        </div>
-                    </div>
-                    <div className="group-overlay">
-                        <img src="images/panelists/RajeshSood.png" className="p-pic" alt="panelist 7"/>
-                        <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Rajesh Sood</h4>
-                            <p>Vice President & Client Partner</p>
-                            <p>Tech Mahindra</p>
-                        </div>
-                    </div>
-                    <div className="group-overlay">
-                        <img src="images/panelists/StacySwider.png" className="p-pic" alt="panelist 8"/>
-                        <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Stacy Swider</h4>
-                            <p>Vice President Investments</p>
-                            <p>Mass Ventures</p>
-                        </div>
-                    </div>
-                </div>*/}
+                </div>
             </div>
         </div>
     );

@@ -29,9 +29,9 @@ function Home() {
             <div id="Panelists">
                 <Panelists />
             </div>
-            <div id="Posters">
+{/*            <div id="Posters">
                 <Posters />
-            </div>
+            </div>*/}
             <div id="PhotoGallery">
                 <PhotoGallery />
             </div>

@@ -128,9 +128,9 @@ function Agenda() {
                                 <td><p>Panel: AI-RAN, Moderated by Michele Polese</p>
                                     <ul>
                                         <li>Chris Christou, Senior Vice President - Booz Allen Hamilton</li>
+                                        <li>Mauro Fihlo, SVP of AI-RAN - SoftBank</li>
                                         <li>Ahan Kak, Research Scientist - Nokia</li>
                                         <li>Ed Knapp, Liberty Technology Partners / American Tower</li>
-                                        <li>Mauro Fihlo, SVP of AI-RAN - SoftBank</li>
                                     </ul>
                                 </td>
                             </tr>

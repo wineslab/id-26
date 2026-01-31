@@ -7,7 +7,7 @@ function Agenda() {
     return (
         <div>
             <SectionHeader text="AGENDA"></SectionHeader>
-            <div><p><b>Location:</b> East Village - 291 St. Botolph Street</p></div>
+            <div><p><b>Location:</b> East Village - 291 St. Botolph Street, 17th Floor</p></div>
             <div className="section agenda">
                 <div className="details">
                     <Table bordered>
@@ -44,7 +44,7 @@ function Agenda() {
                                     <ul>
                                         <li>Akram Alshawabkeh, Interim Senior Vice Provost - Research</li>
                                         <li>Gregory Abowd, Dean – College of Engineering</li>
-                                        <li>Tommaso Melodia, “A Review of the Institute's Activities”</li>
+                                        <li>Tommaso Melodia, "A Review of the Institute's Activities"</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -52,7 +52,7 @@ function Agenda() {
                                 <td><p>9:45-10:15 am</p></td>
                                 <td><p>Keynote on AI-RAN</p>
                                     <ul>
-                                        <li>Kuntal Chowdhury</li>
+                                        <li>Kuntal Chowdhury, "Architecting AI-Native 6G: A Software-Defined Platform for Continuous Innovation"</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -60,8 +60,8 @@ function Agenda() {
                                 <td><p>10:15-10:30 am</p></td>
                                 <td><p>INSI London Overview</p>
                                     <ul>
-                                        <li>Osvaldo Simeone, Professor of Information Engineering</li>
-                                        <li>Bipin Rajendran, Professor of Intelligent Computing Systems</li>
+                                        <li>Osvaldo Simeone, "How to Trust AI in Telecom"</li>
+                                        <li>Bipin Rajendran, "Energy-Efficient Intelligence for Physical AI and Next-Generation Networks"</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -69,9 +69,9 @@ function Agenda() {
                                 <td><p>10:30-11:00 am</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
-                                        <li>Josep Jornet</li>
-                                        <li>Michele Polese</li>
-                                        <li>Francesco Restuccia</li>
+                                        <li>Josep Jornet, "Terahertz Integrated Communications and Sensing: From the Near Field to Space"</li>
+                                        <li>Michele Polese, "Toward AI-RAN - Transforming RAN Design and Operations with Automation and LLMs"</li>
+                                        <li>Francesco Restuccia, "Resilient AI-Native Communications and Sensing for Safety-Critical Cyber-Physical Systems"</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -83,17 +83,16 @@ function Agenda() {
                                 <td><p>11:10 am-1:00 pm</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
-                                        <li>Yonina Eldar</li>
-                                        <li>Dimitrios Koutsonikolas</li>
-                                        <li>Xufeng Zhang</li>
-                                        <li>Pedram Johari</li>
-                                        <li>Miriam Leeser</li>
-                                        <li>Stefano Basagni</li>
-                                        <li>Lili Su</li>
-                                        <li>Weiyan Shi</li>
-                                        <li>Andrea Lacava</li>
-                                        <li>Eduardo Baena</li>
-                                        <li>Maxime Elkael</li>
+                                        <li>Yonina Eldar, "Physics-Driven Intelligence: From Theory to Translational Sensing Systems"</li>
+                                        <li>Dimitrios Koutsonikolas, "Evaluating 5G Performance in the Wild"</li>
+                                        <li>Xufeng Zhang, "Magnonics for Wireless: From Classical to Quantum"</li>
+                                        <li>Pedram Johari, "Digital Twins for Wireless Networks: Real-time, connected multiverse where you can test and trust AI-driven RAN decisions before they hit the field"</li>
+                                        <li>Miriam Leeser, "Deep Learning Implementations for Next-Generation Wireless Communications"</li>
+                                        <li>Stefano Basagni, "TBD"</li>
+                                        <li>Lili Su, "Multi-Agent Reinforcement Learning in Heterogeneous Environments"</li>
+                                        <li>Andrea Lacava, "dApps: Enabling Real-Time AI-based Open RAN Control"</li>
+                                        <li>Eduardo Baena, "From Terrestrial to Space: AI-Native Wireless Autonomy"</li>
+                                        <li>Maxime Elkael, "Large Language Model for Next Generation RAN Optimization and Testing"</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -103,20 +102,20 @@ function Agenda() {
                             </tr>
                             <tr>
                                 <td><p>2:00-3:00 pm</p></td>
-                                <td><p>Fireside Chat: “Creating a business from Deep Research”</p>
+                                <td><p>Fireside Chat, Moderated by Ted Werth</p>
                                     <ul>
-                                        <li>Greg Waters - Matrix Space- NU Board of Trustees</li>
+                                        <li>"Beyond the Invention: What Turns Research into a Business" with Greg Waters, MatrixSpace & Northeastern University Board of Trustees</li>
                                     </ul>
                                 </td>
                             </tr>
                             <tr>
                                 <td><p>3:00-3:50 pm</p></td>
-                                <td><p>INSI Commercialization and Spin offs</p>
+                                <td><p>INSI Commercialization and Spinoffs</p>
                                     <ul>
-                                        <li>Ted Werth to present the ecosystem</li>
-                                        <li>5-min pitch from spin-offs</li>
+                                        <li>Ted Werth, "Research Ecosystem Overview"</li>
+                                        <li>INSI Spinoff Presentations</li>
                                         <li>Entrepreneur of the Year</li>
-                                        <li>Ignite Award</li>
+                                        <li>INSI Ignite Award</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -126,13 +125,12 @@ function Agenda() {
                             </tr>
                             <tr>
                                 <td><p>4:00-5:00 pm</p></td>
-                                <td><p>Panel 1: AI-RAN</p>
+                                <td><p>Panel: AI-RAN, Moderated by Michele Polese</p>
                                     <ul>
-                                        <li>Chris Christou, BAH</li>
-                                        <li>Ahan Kak, Nokia</li>
+                                        <li>Chris Christou, Senior Vice President - Booz Allen Hamilton</li>
+                                        <li>Ahan Kak, Research Scientist - Nokia</li>
                                         <li>Ed Knapp, Liberty Technology Partners / American Tower</li>
-                                        <li>Mauro Fihlo, SoftBank</li>
-                                        <li>Moderator: Michele Polese</li>
+                                        <li>Mauro Fihlo, SVP of AI-RAN - SoftBank</li>
                                     </ul>
                                 </td>
                             </tr>

@@ -57,16 +57,16 @@ function Agenda() {
                                 </td>
                             </tr>
                             <tr>
-                                <td><p>10:15-10:30 am</p></td>
+                                <td><p>10:15-10:40 am</p></td>
                                 <td><p>INSI London Overview</p>
                                     <ul>
-                                        <li>Osvaldo Simeone, "How to Trust AI in Telecom"</li>
                                         <li>Bipin Rajendran, "Energy-Efficient Intelligence for Physical AI and Next-Generation Networks"</li>
+                                        <li>Osvaldo Simeone, "How to Trust AI in Telecom"</li>
                                     </ul>
                                 </td>
                             </tr>
                             <tr>
-                                <td><p>10:30-11:00 am</p></td>
+                                <td><p>10:40-11:00 am</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
                                         <li>Josep Jornet, "Terahertz Integrated Communications and Sensing: From the Near Field to Space"</li>
@@ -110,11 +110,11 @@ function Agenda() {
                             </tr>
                             <tr>
                                 <td><p>3:00-3:50 pm</p></td>
-                                <td><p>INSI Commercialization and Spinoffs</p>
+                                <td><p>INSI Commercialization and Spin-Offs</p>
                                     <ul>
                                         <li>Ted Werth, "Research Ecosystem Overview"</li>
-                                        <li>INSI Spinoff Presentations</li>
-                                        <li>Entrepreneur of the Year</li>
+                                        <li>INSI Spin-Off Presentations</li>
+                                        <li>Entrepreneur of the Year Award</li>
                                         <li>INSI Ignite Award</li>
                                     </ul>
                                 </td>

@@ -66,7 +66,7 @@ function Agenda() {
                                 </td>
                             </tr>
                             <tr>
-                                <td><p>10:40-11:00 am</p></td>
+                                <td><p>10:40-11:10 am</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
                                         <li>Josep Jornet, "Terahertz Integrated Communications and Sensing: From the Near Field to Space"</li>
@@ -76,11 +76,11 @@ function Agenda() {
                                 </td>
                             </tr>
                             <tr>
-                                <td><p>11:00-11:10 am</p></td>
+                                <td><p>11:10-11:20 am</p></td>
                                 <td><p>Coffee Break</p></td>
                             </tr>
                             <tr>
-                                <td><p>11:10 am-1:00 pm</p></td>
+                                <td><p>11:20 am-1:00 pm</p></td>
                                 <td><p>Research Presentations from Institute faculty members</p>
                                     <ul>
                                         <li>Yonina Eldar, "Physics-Driven Intelligence: From Theory to Translational Sensing Systems"</li>
@@ -88,7 +88,7 @@ function Agenda() {
                                         <li>Xufeng Zhang, "Magnonics for Wireless: From Classical to Quantum"</li>
                                         <li>Pedram Johari, "Digital Twins for Wireless Networks: Real-time, connected multiverse where you can test and trust AI-driven RAN decisions before they hit the field"</li>
                                         <li>Miriam Leeser, "Deep Learning Implementations for Next-Generation Wireless Communications"</li>
-                                        <li>Stefano Basagni, "TBD"</li>
+                                        <li>Weiyan Shi, "Future AI Living: From Smart Devices to Your Seamless Companions"</li>
                                         <li>Lili Su, "Multi-Agent Reinforcement Learning in Heterogeneous Environments"</li>
                                         <li>Andrea Lacava, "dApps: Enabling Real-Time AI-based Open RAN Control"</li>
                                         <li>Eduardo Baena, "From Terrestrial to Space: AI-Native Wireless Autonomy"</li>

@@ -17,6 +17,14 @@ function Panelists() {
                         </div>
                     </div>
                     <div className="group-overlay">
+                        <img src="images/panelists/maike_meyercutler.png" className="p-pic" alt="panelist 3"/>
+                        <div className="info">
+                            <h4 style={{paddingBottom: "0.5rem"}}>Maike Meyer-Cutler</h4>
+                            <p>Director Business Development Strategic Accounts</p>
+                            <p>American Tower</p>
+                        </div>
+                    </div>
+                    <div className="group-overlay">
                         <img src="images/panelists/mauro_filho.png" className="p-pic" alt="panelist 4"/>
                         <div className="info">
                             <h4 style={{paddingBottom: "0.5rem"}}>Mauro Fihlo</h4>
@@ -30,14 +38,6 @@ function Panelists() {
                             <h4 style={{paddingBottom: "0.5rem"}}>Ahan Kak</h4>
                             <p>Research Scientist</p>
                             <p>Nokia</p>
-                        </div>
-                    </div>
-                    <div className="group-overlay">
-                        <img src="images/panelists/ed_knapp.png" className="p-pic" alt="panelist 3"/>
-                        <div className="info">
-                            <h4 style={{paddingBottom: "0.5rem"}}>Ed Knapp</h4>
-                            <p>Consultant</p>
-                            <p>Liberty Technology Partners / American Tower</p>
                         </div>
                     </div>
                 </div>

@@ -71,7 +71,7 @@ function Agenda() {
                                     <ul>
                                         <li>Josep Jornet, "Terahertz Integrated Communications and Sensing: From the Near Field to Space"</li>
                                         <li>Michele Polese, "Toward AI-RAN - Transforming RAN Design and Operations with Automation and LLMs"</li>
-                                        <li>Francesco Restuccia, "Resilient AI-Native Communications and Sensing for Safety-Critical Cyber-Physical Systems"</li>
+                                        <li>Francesco Restuccia, "AI-Native 6G Mobile Systems"</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -88,11 +88,11 @@ function Agenda() {
                                         <li>Xufeng Zhang, "Magnonics for Wireless: From Classical to Quantum"</li>
                                         <li>Pedram Johari, "Digital Twins for Wireless Networks: Real-time, connected multiverse where you can test and trust AI-driven RAN decisions before they hit the field"</li>
                                         <li>Miriam Leeser, "Deep Learning Implementations for Next-Generation Wireless Communications"</li>
-                                        <li>Weiyan Shi, "Future AI Living: From Smart Devices to Your Seamless Companions"</li>
                                         <li>Lili Su, "Multi-Agent Reinforcement Learning in Heterogeneous Environments"</li>
                                         <li>Andrea Lacava, "dApps: Enabling Real-Time AI-based Open RAN Control"</li>
                                         <li>Eduardo Baena, "From Terrestrial to Space: AI-Native Wireless Autonomy"</li>
                                         <li>Maxime Elkael, "Large Language Model for Next Generation RAN Optimization and Testing"</li>
+                                        <li>Weiyan Shi, "Future AI Living: From Smart Devices to Your Seamless Companions"</li>
                                     </ul>
                                 </td>
                             </tr>

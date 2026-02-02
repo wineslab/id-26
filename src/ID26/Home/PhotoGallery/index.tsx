@@ -47,6 +47,31 @@ function PhotoGallery() {
                     <img src="images/wiot-industry-day-2023-106.jpg" alt="id 23 event" />
                     <img src="images/wiot-industry-day-2023-132.jpg" alt="id 23 event" />      
                     <img src="images/wiot-industry-day-2023-118.jpg" alt="id 23 event" />
+
+                    <img src="images/wiot-industry-day-2025-1320232.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320249.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320271.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320277.jpg" alt="id 25 event" />
+
+                    <img src="images/wiot-industry-day-2025-1320302.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320384.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320413.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320461.jpg" alt="id 25 event" />
+
+                    <img src="images/wiot-industry-day-2025-1320467.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320552.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320876.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320915.jpg" alt="id 25 event" />
+
+                    <img src="images/wiot-industry-day-2025-1320927.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320930.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1320956.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1330041.jpg" alt="id 25 event" />
+
+                    <img src="images/wiot-industry-day-2025-1330105.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1330189.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1330262.jpg" alt="id 25 event" />
+                    <img src="images/wiot-industry-day-2025-1330322.jpg" alt="id 25 event" />
                 </div>
             </div>
         </div>
